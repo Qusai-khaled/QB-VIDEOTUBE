@@ -9,6 +9,8 @@
 # The contents of the site
 Video , category , skills , tags , comments ,search , pages , contact us (dashboard , website)
 
+#The fixed content has been translated into languages: Arabic and French
+
 # Admin
 
 -   Add / edit /delete category
